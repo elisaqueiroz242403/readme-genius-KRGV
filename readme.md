@@ -1,6 +1,6 @@
 # GENIUS-KRVG
 
-## Como Jogar
+## Como Jogar:
 
 - Clique no botão Iniciar.
 - Observe as cores que vão piscar e memorize.
